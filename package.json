@@ -2,7 +2,7 @@
   "name": "atividade_actions",
   "version": "0.1.0",
   "private": true,
-  "homepgage": "https//felipes4ntiago.github.io/Atividade_Actions",
+  "homepage": "https://felipes4ntiago.github.io/Atividade_Actions",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
